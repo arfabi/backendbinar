@@ -52,7 +52,7 @@
 <div class="login-box">
   <div class="login-logo">
     <img src="assets/logotoga.png" width="75" height="75" />
-      <span class="logo-lg" style="color:#DD4B39"><b>Aksa</b>Pos<span>
+      <span class="logo-lg" style="color:#DD4B39"><b>Anter</b>.In<span>
   </div>
   <!-- /.login-logo -->
   <div class="login-box-body">
@@ -106,7 +106,7 @@
     <div class="pull-right hidden-xs">
     <strong>Copyright &copy; 2016-2017 <a href="http://arfabi.com">ARFABI.COM</a></strong> All Right Reserved.
     </div>
-    <strong><i class="fa fa-opencart"></i> AksaPos</strong> - Aplikasi Kasir & Penjualan Online.
+    <strong><i class="fa fa-opencart"></i> Anter.in</strong> - Aplikasi Layanan microservice Delivery order.
   </footer>
 
   <!-- Control Sidebar -->

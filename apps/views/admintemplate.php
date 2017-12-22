@@ -118,9 +118,9 @@
 
   <footer class="main-footer">
     <div class="pull-right hidden-xs">
-    <strong>Copyright &copy; 2016-2017 <a href="http://gamainformatika.com" target="_BLANK">Gama Informatika</a></strong> All Right Reserved.
+    <strong>Copyright &copy; 2016-2017 <a href="http://Arfabi.com" target="_BLANK">Arfabi</a></strong> All Right Reserved.
     </div>
-    <strong><i class="fa fa-graduation-cap"></i> SimakGama</strong> - Portal Dosen 
+    <strong><i class="fa fa-opencart"></i> Anter.in</strong> - Food and Beverage Delivery Order.
   </footer>
 
   <!-- Control Sidebar -->

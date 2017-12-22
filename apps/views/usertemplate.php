@@ -128,7 +128,7 @@
     <div class="pull-right hidden-xs">
     <strong>Copyright &copy; 2016-2017 <a href="http://arfabi.com">ARFABI.COM</a></strong> All Right Reserved.
     </div>
-    <strong><i class="fa fa-opencart"></i> AksaPos</strong> - Aplikasi Kasir & Penjualan Online.
+    <strong><i class="fa fa-opencart"></i> Anter.in</strong> - Food and Beverage Delivery Order.
   </footer>
 
 

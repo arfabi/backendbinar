@@ -13,12 +13,12 @@ $datenow    =date('Y-m-d H:i:s');
 
 
 function base_url(){  
-    static $url_base    ='http://localhost:8080/erdelabs/aksapos/';
+    static $url_base    ='http://localhost:8080/erdelabs/backendbinar/';
     return $url_base;
 }
 
 function cdn_url(){  
-    static $url_base='http://localhost:8080/erdelabs/aksapos/public/images/';
+    static $url_base='http://localhost:8080/erdelabs/backendbinar/public/images/';
     return $url_base;
 }
 
@@ -34,17 +34,17 @@ function con_url(){
 }
 
 function site_title(){
-    $site_title      ="AksaPos - Aplikasi Kasir & Penjualan Online";
+    $site_title      ="Anter.in - Cepat Mantap";
     return $site_title;
 }
 
 function site_tagline(){
-    $site_title      ="Aplikasi Kasir & Penjualan Online";
+    $site_title      ="Aplikasi Backend Anter.in";
     return $site_title;
 }
 
 function site_title_small(){
-    $site_title      ="AksaPos";
+    $site_title      ="Anter.in";
     return $site_title;
 }
 
