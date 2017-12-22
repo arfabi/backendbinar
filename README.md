@@ -13,6 +13,11 @@ a.	Desainlah stack backend/micro service layanan tersebut beserta tools dan alas
 JAWAB
 
 1.	Aplikasi Antar Makanan dan Pelanggan : anter.in <br>
+<br>
+
+<br>
+
+
 Fungsi stack backend Apps:
 1.	Data Pengguna
 2.	Data Merchant 
@@ -21,7 +26,14 @@ Fungsi stack backend Apps:
 5.	Data Kupon
 6.	Data Transaksi
 7.	Data Admin
+
+
+<br>
+
+<br>
 Tools yang digunakan :
+
+
 1.	Bahasa pemrograman yang digunakan : PHP, menggunakan framework MVC, OOP buatan sendiri. Alasannya PHP merupakan Bahasa yang cukup popular dan kecepatannya juga tak kalah dengan Bahasa-bahasa yang mendekati mesin seperti phyton dan ruby. Cocok untuk skala kecil menengah, mungkin apabila skala sudah besar bisa dipertimbangkan menggunakan Golang.
 Disisi lain, PHP adalah Bahasa familiar dan dapat dengan mudah dikerjakan bersama Tim.
 2.	Database yang digunakan : Mysql, alasannya adalah Free dan cocok sebagai pendamping PHP. Mysql juga sangat popular dan terus ditingkatkan keamananya.
