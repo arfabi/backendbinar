@@ -43,9 +43,9 @@
     <!-- Logo -->
     <a href="<?php echo base_url();?>" class="logo">
       <!-- mini logo for sidebar mini 50x50 pixels -->
-      <span class="logo-mini"><b>Ak</b>Sa</span>
+      <span class="logo-mini"><b>AN</b>TR</span>
       <!-- logo for regular state and mobile devices -->
-      <span class="logo-lg"><b>Aksa</b>Pos</span>
+      <span class="logo-lg"><b>Anter</b>.IN</span>
     </a>
    
    <?php include "theme/menuatas.php";?>

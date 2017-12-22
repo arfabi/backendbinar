@@ -10,13 +10,11 @@
           </a>
         </li>
 
-          <li class="<?php if($controller=='statistik'){ echo 'active';}?>">
-          <a href="<?php echo base_url();?>statistik">
-            <i class="fa fa-money"></i> <span>Sell</span>
+          <li class="<?php if($controller=='user'){ echo 'active';}?>">
+          <a href="<?php echo base_url();?>user">
+            <i class="fa fa-users"></i> <span>Pengguna</span>
           </a>
         </li>
-
-
 
 
            <li class="<?php if($controller=='products' || $controller=='categories'){ echo 'active';}?>">
@@ -55,9 +53,9 @@
 
 
 
-          <li class="<?php if($controller=='system'){ echo 'active';}?>">
-          <a href="<?php echo base_url();?>system">
-            <i class="fa fa-history"></i> <span>History</span>
+          <li class="<?php if($controller=='users'){ echo 'active';}?>">
+          <a href="<?php echo base_url();?>users">
+            <i class="fa fa-history"></i> <span>Merchant</span>
           </a>
         </li>
 
@@ -66,7 +64,7 @@
 
          <li class="<?php if($controller=='zona'){ echo 'active';}?>">
           <a href="<?php echo base_url();?>zona">
-            <i class="fa fa-bar-chart"></i> <span>Reports</span>
+            <i class="fa fa-bar-chart"></i> <span>Transaction</span>
           </a>
         </li>
 
@@ -76,7 +74,7 @@
 
          <li class="<?php if($controller=='biaya' || $controller=='pakettiket'){ echo 'active';}?>">
           <a href="<?php echo base_url();?>biaya">
-            <i class="fa fa-gears"></i> <span>Setup</span>
+            <i class="fa fa-ticket"></i> <span>Tarif</span>
           </a>
         </li>
 
