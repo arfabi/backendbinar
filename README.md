@@ -12,7 +12,7 @@ a.	Desainlah stack backend/micro service layanan tersebut beserta tools dan alas
 
 JAWAB
 
-1.	Aplikasi Antar Makanan dan Pelanggan : anter.in
+1.	Aplikasi Antar Makanan dan Pelanggan : anter.in <br>
 Fungsi stack backend Apps:
 1.	Data Pengguna
 2.	Data Merchant 
@@ -27,9 +27,9 @@ Disisi lain, PHP adalah Bahasa familiar dan dapat dengan mudah dikerjakan bersam
 2.	Database yang digunakan : Mysql, alasannya adalah Free dan cocok sebagai pendamping PHP. Mysql juga sangat popular dan terus ditingkatkan keamananya.
 3.	Tool Editor yang digunakan adalah Sublime, Alasan mengapa menggunakan Sublime adalah banyaknya fitur-fitur package yang memadai dalam pemrograman backend web. Seperti HTML, JSON, CSS Beuatifier untuk menulis kode yang cantik dan mudah dipahami.
 
+<br>
 
-
-
+<br>
 
 2.	Cara saya dalam meningkatkan keamanan data yang dikirim melalui webservice. Adalah sebagai berikut :
 -	Penggunaan UUID versi 5 sebagai pengganti ID Primary Key unik setiap table. Dimana UUID ini terdiri dari 32 character md5, ini sangat membantu daripada menggunakan auto increament ID. Contohnya pada ID User menggunakan UUID ini jelas sangat membingungkan Hacker karena terdiri dari kode acak.
@@ -38,9 +38,9 @@ Disisi lain, PHP adalah Bahasa familiar dan dapat dengan mudah dikerjakan bersam
 -	Menggunakan sistem token pada setiap user login, dimana token tersebut tergenerate berdasarkan login user apabila digunakan oleh oknum yang menyekat komunikasi kita akan terjaring.
 -	Menggunakan sistem imei login, jadi apabila user login menggunakan handphone orang lain (bukan handphone yang biasanya dipakai) maka akan diwajibkan verifikasi akses melalui email ataupun SMS. Ini tentu berefek dengan penyimpanan imei hp user di database.
 
+<br>
 
-
-
+<br>
 
 3.  Backend Apps anter.in
 
